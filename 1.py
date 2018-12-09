@@ -85,3 +85,7 @@ print(zahra)
 b = 7
 c = a+b 
 print(c)
+k = 9
+l = 6
+f = k+l
+print(f)
